@@ -222,5 +222,3 @@ wandb/**
 .venv/
 .idea/
 .DS_Store
-
-.github/
